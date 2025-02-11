@@ -1,2 +1,19 @@
-# OCR
-LicesencePlateRecognation
+# LicesencePlateRecognation
+
+车牌检测采用YOLO V8S
+
+车牌识别支持：
+ 1.单行蓝牌
+ 2.单行黄牌
+ 3.新能源车牌
+ 4.白色警用车牌
+ 5.教练车牌
+ 6.武警车牌
+ 7.双层黄牌
+ 8.双层白牌
+ 9.使馆车牌
+ 10.港澳粤Z牌
+ 11.双层绿牌
+ 12.民航车牌
+
+数据集采用CCPD2019， CCPD2020， CCPD2021 + 自采私有数据集
